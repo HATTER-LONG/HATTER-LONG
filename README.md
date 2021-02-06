@@ -7,6 +7,6 @@
 
 - ⚡ C++ / Python.
 - 👯 Building [An automated test code generation tool based on C++](https://github.com/HATTER-LONG/AUTestTools) , [Learning Audio/video development technology](https://github.com/HATTER-LONG/NoteBook_FFmpegLearning) and more.
-- ✍️ [Blogger](https://haysc.tech)
+- 🏢 HDVR security equipment research and development
 - 🏃 Fitness / Cycling
 - 📫 Email me at: [caolei6767@gmail.com](mailto:caolei6767@gmail.com)
